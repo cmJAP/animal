@@ -4,7 +4,7 @@ html, body {
     padding: 0;
     font-size: x-large;
     text-align: center;
-    background-image:
+    background: red;
 }
 
 a {
@@ -23,5 +23,5 @@ form{
 ul {
     margin: auto;
     display: inline;
-    
+
 }
